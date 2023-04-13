@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "name": "Mark Webber",
+    "type_post": "post-reaction",
+    "time": "1m ago",
+    "read": false,
+    "image": "../images/avatar-mark-webber.webp",
+    "post": "My first tournament today!"
+  },
+  {
+    "id": 2,
+    "name": "Angela Gray",
+    "type_post": "follow",
+    "time": "5m ago",
+    "read": false,
+    "image": "../images/avatar-angela-gray.webp"
+  },
+  {
+    "id": 3,
+    "name": "Jacob Thompson",
+    "type_post": "group-join",
+    "time": "1 day ago",
+    "read": false,
+    "image": "../images/avatar-jacob-thompson.webp",
+    "group": "Chess Club"
+  },
+  {
+    "id": 4,
+    "name": "Kimberley Smith",
+    "type_post": "picture-comment",
+    "time": "1 week ago",
+    "read": true,
+    "image": "../images/avatar-kimberly-smith.webp",
+    "picture": "../images/image-chess.webp"
+  },
+  {
+    "id": 5,
+    "name": "Nathan Peterson",
+    "type_post": "post-reaction",
+    "time": "2 weeks ago",
+    "read": true,
+    "image": "../images/avatar-nathan-peterson.webp",
+    "post": "5 end-game strategies to increase your win rate"
+  },
+  {
+    "id": 6,
+    "name": "Anna Kim",
+    "type_post": "group-leave",
+    "time": "2 weeks ago",
+    "read": true,
+    "image": "../images/avatar-anna-kim.webp",
+    "group": "Chess Club"
+  }
+]
